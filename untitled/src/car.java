@@ -14,6 +14,7 @@ public class car {
                 }
             }
         }
+        System.out.println("测试");
     }
     }
 
