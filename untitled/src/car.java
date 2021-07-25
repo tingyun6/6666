@@ -15,6 +15,7 @@ public class car {
             }
         }
         System.out.println("测试");
+        System.out.println("测试pull");
     }
     }
 
